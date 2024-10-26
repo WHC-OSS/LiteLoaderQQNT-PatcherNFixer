@@ -1,2 +1,19 @@
-# LiteLoaderQQNT-PatcherNFixer
-LiteLoaderQQNT-PatcherNFixer
+# LiteLoaderQQNT - 全自动修补和修复工具
+
+## 现在，高于9.9.2-16183的版本可以继续使用本工具修补，你还可以使用另一个修补器（[QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch)）
+LiteLoaderQQNT的实用软件，用于对`QQ.exe`进行修补，并修复可能提示的文件损坏问题。
+使用前需要安装[LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT)，并在QQNT新版上使用。
+
+目前兼容已知的所有QQ版本，同时兼容>=1.0版本的框架和0.x版本的框架。
+
+## 使用方法
+
+直接去`release`中下载最新发布版本，然后用管理员权限运行（默认就是管理员权限运行），一键修复，完工！
+
+0.x版本框架最高支持到9.9.2-16183，>=1.0版本框架支持目前已知的所有QQNT版本。
+
+目前已经测试9.9.2-16183（0.x版本修补和1.0版本修补都OK）、9.9.6-19189（1.x版本修补）、9.9.6-19527（1.x版本修补）、9.9.7-20811（1.x版本修补）。
+
+## 协议及免责
+
+MIT | 禁止用于任何非法用途，软件开发属学习与研究目的，仅自用，未提供给任何第三方使用。任何不当使用导致的任何侵权问题责任自负。
